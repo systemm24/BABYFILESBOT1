@@ -140,7 +140,7 @@ def list_to_str(k):
 __repo__ = "https://github.com/nobodydi/BABYFILESBOT"
 __version__ = "BABYFILESBOT ᴠ4.5.0"
 __license__ = "GNU GENERAL PUBLIC LICENSE V2"
-__copyright__ = "Copyright (C) 2023-present MrMKN <https://github.com/MrMKN>"
+__copyright__ = "Copyright (C) 2023-present ◄⏤͟͟❥͜͡≛⃝🥀𝗖𝙻🅐︎𝐬𝐒𝙸𝗖🦋 ━─≫❤️‍🔥 <https://github.com/nobodydi/BABYFILESBOT>"
 
 async def search_gagala(text):
     usr_agent = {
