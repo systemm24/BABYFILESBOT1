@@ -36,7 +36,7 @@ async def start(client, message):
             InlineKeyboardButton("➕️ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Cʜᴀᴛ ➕", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
             InlineKeyboardButton("◉ sᴇᴀʀᴄʜ ◉", switch_inline_query_current_chat=''), 
-            InlineKeyboardButton("◉ ᴄʜᴀɴɴᴇʟ ◉", url="https://t.me/BABYUPDATE")
+            InlineKeyboardButton("◉ ᴄʜᴀɴɴᴇʟ ◉", url="https://t.me/BABYXMOVIES")
             ],[      
             InlineKeyboardButton("◉ ʜᴇʟᴘ ◉", callback_data="help"),
             InlineKeyboardButton("◉ ᴀʙᴏᴜᴛ ◉", callback_data="about")
@@ -72,7 +72,7 @@ async def start(client, message):
             InlineKeyboardButton("➕️ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Cʜᴀᴛ ➕", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
             InlineKeyboardButton("◉ sᴇᴀʀᴄʜ ◉", switch_inline_query_current_chat=''), 
-            InlineKeyboardButton("◉ ᴄʜᴀɴɴᴇʟ ◉", url="https://t.me/BABYUPDATE")
+            InlineKeyboardButton("◉ ᴄʜᴀɴɴᴇʟ ◉", url="https://t.me/BABYXMOVIES")
             ],[      
             InlineKeyboardButton("◉ ʜᴇʟᴘ ◉", callback_data="help"),
             InlineKeyboardButton("◉ ᴀʙᴏᴜᴛ ◉", callback_data="about")
