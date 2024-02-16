@@ -57,10 +57,7 @@
         },
         "CUSTOM_FILE_CAPTION": {
             "description": "A custom file caption for your files. formatable with , file_name, file_caption, file_size, Read Readme.md for better understanding.",
-            "value": "[๏ᴋ-ᴅʀᴀᴍᴀ ᴄʜᴀɴɴᴇʟ๏](buttonurl:https://t.me/CLASSYSPY)
-[๏ᴍᴏᴠɪᴇ ʙᴏᴛ๏](buttonurl:https://t.me/BABYFILESBOT)
-[๏ʀᴜʟᴇs๏](buttonurl:https://t.me/CLASSYSPY:same)
-[๏ᴄᴏᴍᴘʟᴀɪɴᴛ๏](buttonurl:@CLASSYSPY)",
+            "value": "/n[๏ᴋ-ᴅʀᴀᴍᴀ ᴄʜᴀɴɴᴇʟ๏](buttonurl:https://t.me/CLASSYSPY)/n[๏ᴍᴏᴠɪᴇ ʙᴏᴛ๏](buttonurl:https://t.me/BABYFILESBOT)/n[๏ʀᴜʟᴇs๏](buttonurl:https://t.me/CLASSYSPY:same)/n[๏ᴄᴏᴍᴘʟᴀɪɴᴛ๏](buttonurl:@CLASSYSPY)",
             "required": false
         },
         "DATABASE_URL": {
