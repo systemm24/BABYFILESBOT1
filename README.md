@@ -97,7 +97,3 @@ channel - to get list of total connected channels
 broadcast - to broadcast a message to all Eva Maria users
 ```
 </details>
-
-## Credit 💞
-
-* [![TEAM EVA-MARIA](https://img.shields.io/static/v1?label=TEAM&message=EVA-MARIA&color=yellow)](https://t.me/TeamEvamaria)
